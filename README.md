@@ -82,7 +82,7 @@ and performance optimization practices followed during development.
 ## Dashboard Structure  
 
 ### 1. **Executive Summary**  
-- **KPI Cards**: Total Sales, YoY Growth, CLV, Inventory Turnover  
+- **KPI Cards**: Total Sales, YoY Growth  
 - **Line Chart**: Sales Trend Over Time  
 - **Gauge**: Current vs. Target Sales  
 
