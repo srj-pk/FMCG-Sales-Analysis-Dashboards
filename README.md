@@ -18,7 +18,7 @@ The images below provide a visual preview of every page in the dashboard.
 
 ### 🏠 1. Homepage  
 
-![Homepage Preview](/images/HOME%20PAGE.PNG)
+![Homepage Preview](/Home%20page.png)
 
 The **Homepage** serves as the navigation hub of the report — giving users access to  
 Sales Analysis, Customer Insights, and the Information page in a clean and intuitive layout.
@@ -27,7 +27,7 @@ Sales Analysis, Customer Insights, and the Information page in a clean and intui
 
 ### 📊 2. Sales Analysis Page  
 
-![Sales Analysis Preview](/images/SALES%20ANALYSIS%20PAGE.PNG)
+![Sales Analysis Preview](/Sales%20analysis%20page.png)
 
 The **Sales Analysis Page** focuses on business performance metrics such as  
 sales contribution, time-based performance (MTD/QTD/YTD), product trends,  
@@ -37,7 +37,7 @@ regional distribution, and monthly movement using KPI visuals and trend charts.
 
 ### 👥 3. Customer Analysis Page  
 
-![Customer Analysis Preview](/images/CUSTOMER%20ANALYSIS%20PAGE.PNG)
+![Customer Analysis Preview](/Customer%20Analysis%20Page.png)
 
 The **Customer Analysis Page** highlights engagement, loyalty segmentation,  
 regional distribution, top & bottom performing customers, and transaction trends —  
@@ -47,7 +47,7 @@ helping stakeholders understand customer behavior and performance patterns.
 
 ### ℹ️ 4. Info Page  
 
-![Info Page Preview](/images/INFO%20PAGE.PNG)
+![Info Page Preview](/Info%20Page.png)
 
 The **Info Page** documents key report details including the data model approach,  
 data sources used, DAX calculations, RLS configuration, navigation guidance,  
